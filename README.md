@@ -1,14 +1,15 @@
 Для запуска:
 
-python -m venv venv
-venv\scripts\activate
+python -m venv venv<br>
+venv\scripts\activate<br>
 
-установить библиотеки:
-pip install -r requirements.txt
+установить библиотеки:<br>
+pip install -r requirements.txt<br>
 
 
-запуск
-cd chatapp
-python manage.py runserver
+запуск<br>
+cd chatapp<br>
+python manage.py runserver<br>
 
-работа со страницы
+работа со страницы<br>
+http://127.0.0.1:8000/chat/<br>
