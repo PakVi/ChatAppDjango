@@ -6,6 +6,7 @@ venv\scripts\activate<br>
 установить библиотеки:<br>
 pip install -r requirements.txt<br>
 
+сгенерировать SECRET_KEY <br>
 
 запуск<br>
 cd chatapp<br>
